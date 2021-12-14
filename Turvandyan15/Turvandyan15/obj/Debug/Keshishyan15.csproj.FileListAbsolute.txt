@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\bin\Debug\Keshishyan15.exe.config
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\bin\Debug\Keshishyan15.exe
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\bin\Debug\Keshishyan15.pdb
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\obj\Debug\Keshishyan15.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\obj\Debug\Keshishyan15.Form1.resources
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\obj\Debug\Keshishyan15.Properties.Resources.resources
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\obj\Debug\Keshishyan15.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\obj\Debug\Keshishyan15.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\obj\Debug\Keshishyan15.exe
+C:\Users\student\source\repos\Keshishyan15\Keshishyan15\obj\Debug\Keshishyan15.pdb
