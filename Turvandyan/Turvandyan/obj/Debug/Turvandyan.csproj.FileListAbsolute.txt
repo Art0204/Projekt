@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Turvandyan\Turvandyan\bin\Debug\Turvandyan.exe.config
+C:\Users\student\source\repos\Turvandyan\Turvandyan\bin\Debug\Turvandyan.exe
+C:\Users\student\source\repos\Turvandyan\Turvandyan\bin\Debug\Turvandyan.pdb
+C:\Users\student\source\repos\Turvandyan\Turvandyan\obj\Debug\Turvandyan.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Turvandyan\Turvandyan\obj\Debug\Turvandyan.Properties.Resources.resources
+C:\Users\student\source\repos\Turvandyan\Turvandyan\obj\Debug\Turvandyan.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Turvandyan\Turvandyan\obj\Debug\Turvandyan.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Turvandyan\Turvandyan\obj\Debug\Turvandyan.exe
+C:\Users\student\source\repos\Turvandyan\Turvandyan\obj\Debug\Turvandyan.pdb
+C:\Users\student\source\repos\Turvandyan\Turvandyan\obj\Debug\Turvandyan.Form1.resources
