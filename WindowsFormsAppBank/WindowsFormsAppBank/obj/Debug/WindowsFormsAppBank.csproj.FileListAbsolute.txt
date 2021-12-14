@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\bin\Debug\WindowsFormsAppBank.exe.config
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\bin\Debug\WindowsFormsAppBank.exe
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\bin\Debug\WindowsFormsAppBank.pdb
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.Form1.resources
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.Properties.Resources.resources
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.exe
+C:\Users\student\source\repos\WindowsFormsAppBank\WindowsFormsAppBank\obj\Debug\WindowsFormsAppBank.pdb
